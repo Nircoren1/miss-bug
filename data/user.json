@@ -1,0 +1,33 @@
+[
+  {
+    "username": "sad",
+    "password": "123312",
+    "fullname": "wasd",
+    "_id": "eJLO9"
+  },
+  {
+    "username": "asd",
+    "password": "123",
+    "fullname": "asd",
+    "_id": "RWmU9"
+  },
+  {
+    "fullname": "Muki Ba",
+    "username": "muki",
+    "password": "secre",
+    "_id": "EnOdN"
+  },
+  {
+    "fullname": "puki ga",
+    "username": "puki",
+    "password": "secre",
+    "_id": "En123123OdN"
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "Nir Coren",
+    "_id": "niArc12312",
+    "isAdmin": true
+  }
+]
