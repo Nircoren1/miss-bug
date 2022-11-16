@@ -107,5 +107,13 @@ app.post('/api/auth/logout', (req, res) => {
     res.send('logged out')
 })
 
-app.listen(3031, () => console.log('Server ready at port 3031!'))
+
+const PORT = process.env.PORT || 3030
+
+app.listen(PORT, () =>
+    console.log(`Server listening on port http://127.0.0.1:${PORT}/`)
+)
+
+
+
 
